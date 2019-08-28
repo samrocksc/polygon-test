@@ -189,8 +189,4 @@ const data = [
   },
 ];
 
-// console.log('testing', data[0].polygon);
-// console.log('does it work', inside([16.3733142, 48.1912459], data[0].polygon));
-// console.log('does it work 2', inside([16.3873319, 48.2029047], data[0].polygon));
-
 module.exports = data;

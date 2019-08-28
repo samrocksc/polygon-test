@@ -1,4 +1,5 @@
 const getLoc = require('./getLoc');
+
 const resolvers = {
   Query: {
     getLocation: async (parent, args) => {

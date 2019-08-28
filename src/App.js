@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
 import Button from '@material-ui/core/Button';
 
@@ -17,7 +16,6 @@ function App() {
   };
 
   const handleDataChange = result => {
-    console.log('result is', result);
     setValues({ ...values, deliveryAreas: result });
   };
 
