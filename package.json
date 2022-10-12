@@ -8,7 +8,7 @@
     "@material-ui/icons": "^4.2.1",
     "@react-google-maps/api": "^1.6.0",
     "apollo-boost": "^0.1.26",
-    "apollo-server": "^2.9.0",
+    "apollo-server": "^2.25.4",
     "isomorphic-fetch": "^2.2.1",
     "nodemon": "^1.18.9",
     "npm": "^6.11.2",
